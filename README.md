@@ -1,2 +1,1 @@
-# ecommerce-website
-A fully developed, responsive ecommerce ebsite 
+# ecommerce_website
